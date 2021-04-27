@@ -1,0 +1,29 @@
+body {
+    background-color: #AD66D5;
+}
+h1, h2 {
+    text-align: center;
+    color: #5F2580;
+}
+p {
+    color: #48036F;
+    font-size: 20px;
+    font-family: monospace;
+}
+a:hover {
+    color: #FFB140;
+    font-family: cursive;
+}
+.h:hover {
+    font-family: cursive;
+    color:#FFB140;;
+}
+.o {
+    color: #5F2580;
+    font-size: 20px;
+    font-family: monospace;
+}
+.o:hover {
+    color: rgb(209, 206, 15);
+    font-family: cursive;
+}
